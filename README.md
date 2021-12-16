@@ -1,2 +1,2 @@
 # pet_project
-gonna work w/ my own projects
+gonna work my own projects
